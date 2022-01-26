@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **antonkout/antonkout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,8 @@ Here are some ideas to get you started:
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](http://users.ntua.gr/akoutroubas/)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/antonkout/)
 
-### Hey! I'm Antonios but you can call me Antonis! 👋
+### Hi there! I'm Antonios but you can call me Antonis! 👋
+- 🔭 I’m currently working at: [National Technical University of Athens](https://www.ntua.gr/en/)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: antonkout@gmail.com
 
